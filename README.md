@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Zohaib 👋👨‍💻
+
+<img src='https://i.imgur.com/fn999kK.png'>
+
+I'm a web developer who is passionate about creating technology to solve real world problems. Some technologies I enjoy working with include MERN stack(MongoDB, Express.js, React.js, Node.js) for web dev and Android Studio for mobile dev.
+
+Reach out to me on my email: zohaibxrehman@gmail.com
+
+or my Linkedin: https://www.linkedin.com/in/zohaibxrehman
 
 <!--
 **zohaibxrehman/zohaibxrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
