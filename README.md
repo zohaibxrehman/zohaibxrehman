@@ -6,7 +6,7 @@ I'm a Computer Science student and a web developer who is passionate about creat
 
 Reach out to me on my email: zohaibxrehman@gmail.com
 
-or my Linkedin: https://www.linkedin.com/in/zohaibxrehman
+Or my Linkedin: https://www.linkedin.com/in/zohaibxrehman
 
 <!--
 **zohaibxrehman/zohaibxrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
