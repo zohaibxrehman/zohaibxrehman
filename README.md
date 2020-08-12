@@ -2,7 +2,7 @@
 
 <img src='https://i.imgur.com/fn999kK.png'>
 
-I'm a Computer Science student and a web developer who is passionate about creating technology to solve real world problems. Some technologies I enjoy working with include the MERN stack(MongoDB, Express.js, React.js, Node.js) for web dev and Android Studio for mobile dev.
+I'm a Computer Science student and a Web Developer who is passionate about creating technology to solve real world problems. Some technologies I enjoy working with include the MERN stack(MongoDB, Express.js, React.js, Node.js) for web dev and Android Studio for mobile dev.
 
 Reach out to me on my email: zohaibxrehman@gmail.com
 
