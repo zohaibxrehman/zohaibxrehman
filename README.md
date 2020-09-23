@@ -4,7 +4,7 @@
 
 I'm a Computer Science student and a Web Developer who is passionate about creating technology to solve real world problems. Some technologies I enjoy working with include the MERN stack(MongoDB, Express.js, React.js, Node.js) for web-dev and Flutter and Java with Android Studio for mobile-dev.
 
-Learn more about me: [zohaibxrehman.github.io/Portfolio](https://zohaibxrehman.github.io/Portfolio)
+Learn more about me: https://zohaibxrehman.com
 
 Reach out to me through email: zohaibxrehman@gmail.com
 
