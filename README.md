@@ -4,11 +4,11 @@
 
 I'm a Computer Science student and a Web Developer who is passionate about creating technology to solve real world problems. Some technologies I enjoy working with include the MERN stack(MongoDB, Express.js, React.js, Node.js) for web-dev and Flutter and Java with Android Studio for mobile-dev.
 
-To learn more about me, visit my personal webiste: zohaibxrehman.github.io/Portfolio
+Learn more about me: [zohaibxrehman.github.io/Portfolio](zohaibxrehman.github.io/Portfolio)
 
-Reach out to me on my email: zohaibxrehman@gmail.com
+Reach out to me through email: zohaibxrehman@gmail.com
 
-Or my Linkedin: https://www.linkedin.com/in/zohaibxrehman
+Or Linkedin: https://www.linkedin.com/in/zohaibxrehman
 
 <!--
 **zohaibxrehman/zohaibxrehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
